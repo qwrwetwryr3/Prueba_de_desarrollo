@@ -1,0 +1,10 @@
+C:\Users\danie\source\repos\Prueba_de_desarrollo\Prueba_de_desarrollo\bin\Debug\Prueba_de_desarrollo.exe.config
+C:\Users\danie\source\repos\Prueba_de_desarrollo\Prueba_de_desarrollo\bin\Debug\Prueba_de_desarrollo.exe
+C:\Users\danie\source\repos\Prueba_de_desarrollo\Prueba_de_desarrollo\bin\Debug\Prueba_de_desarrollo.pdb
+C:\Users\danie\source\repos\Prueba_de_desarrollo\Prueba_de_desarrollo\obj\Debug\Prueba_de_desarrollo.Form1.resources
+C:\Users\danie\source\repos\Prueba_de_desarrollo\Prueba_de_desarrollo\obj\Debug\Prueba_de_desarrollo.Properties.Resources.resources
+C:\Users\danie\source\repos\Prueba_de_desarrollo\Prueba_de_desarrollo\obj\Debug\Prueba_de_desarrollo.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\Prueba_de_desarrollo\Prueba_de_desarrollo\obj\Debug\Prueba_de_desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Prueba_de_desarrollo\Prueba_de_desarrollo\obj\Debug\Prueba_de_desarrollo.exe
+C:\Users\danie\source\repos\Prueba_de_desarrollo\Prueba_de_desarrollo\obj\Debug\Prueba_de_desarrollo.pdb
+C:\Users\danie\source\repos\Prueba_de_desarrollo\Prueba_de_desarrollo\obj\Debug\Prueba_de_desarrollo.csprojAssemblyReference.cache
